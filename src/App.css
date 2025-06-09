@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #f0f4f8, #d9e2ec);
+  color: #102a43;
+}
+
+.App {
+  text-align: center;
+}
+
+/* Add additional styling as needed */
+
