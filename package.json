@@ -1,8 +1,9 @@
-{"homepage": "https://Bhuvan1-dot.github.io/FSWD",
+{
 
   "name": "portfoliopr",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Bhuvan1-dot.github.io/FSWD",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
