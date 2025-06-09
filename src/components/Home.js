@@ -16,7 +16,6 @@ const Home = () => {
           <i className="fa-brands fa-linkedin"></i>
           <i className="fa-brands fa-github"></i>
         </div>
-        <button className="btn"></button>
       </div>
       <div className="home-right">
         <img src="/profile.jpg" alt="profile" className="profile-img" />
